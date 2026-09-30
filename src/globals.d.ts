@@ -1,1 +1,2 @@
-declare const lineHeight: number | undefined;
+// 保留文件，原有奇怪的全局声明已移除。
+export {};
